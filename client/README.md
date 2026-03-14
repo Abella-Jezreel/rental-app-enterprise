@@ -67,7 +67,7 @@ Display example:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/rental-app-enterprise.git
+git clone https://github.com/Abella-Jezreel/rental-app-enterprise.git
 ```
 
 Navigate to the client folder
